@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- White Bit Dots -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M36,36m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0
+            M36,48m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0
+            M36,60m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0
+            M36,72m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0
+            M48,48m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0
+            M60,60m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0
+            M72,36m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0
+            M72,48m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0
+            M72,60m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0
+            M72,72m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0" />
+
+    <!-- Nothing Red Accent Dot -->
+    <path
+        android:fillColor="#D71920"
+        android:pathData="M84,36m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0" />
+</vector>

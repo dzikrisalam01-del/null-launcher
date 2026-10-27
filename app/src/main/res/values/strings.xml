@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nothing Bit</string>
+    <string name="search_hint">SEARCH APPS...</string>
+    <string name="swipe_up_hint">^ SWIPE OR TAP FOR APPS</string>
+    <string name="no_apps_found">NO APPS FOUND</string>
+    <string name="set_default_launcher">SET AS DEFAULT HOME</string>
+</resources>
